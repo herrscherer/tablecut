@@ -1,0 +1,13 @@
+td,
+th {
+	min-width: 200px;
+	border: 1px solid #CCC;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+	display: table-cell !important;
+}
